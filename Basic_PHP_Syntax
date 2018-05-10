@@ -1,0 +1,17 @@
+/ A PHP script starts with <? and ends with ?> tags
+
+<?PHP
+
+ //PHP code goes here
+
+ //this is a single line comment
+ #this is a single line comment as well
+
+ /* This is a multiline comment
+ which can be used in multiple lines
+ */
+
+# in PHP all keywords(echo,if,else,while,) are NOT case sensitive
+#but the variables are case sensitive
+
+?>
