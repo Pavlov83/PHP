@@ -16,6 +16,5 @@ searched word starts) */
   ?>
 
 <?php
-
 echo str_replace("world","Luke", "Hello world");//outputs Hello Luke
-?>  
+?>
